@@ -2,7 +2,7 @@
 
 VanlOS aimed at providing a programmable data center operating system.
 
-
+<pre><code>
 -------------------------------------------------------------------------------
 |                                                                             |
 |                     Application Management System                           |
@@ -25,6 +25,7 @@ VanlOS aimed at providing a programmable data center operating system.
 |                                   Linux                                     |       
 |                                                                             |     
 -------------------------------------------------------------------------------      
+</code></pre>
 
 # Why we need a programmable data center?
 Low cost, Scalability, and Intelligent.
